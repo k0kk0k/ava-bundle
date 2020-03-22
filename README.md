@@ -20,8 +20,11 @@ cd ~
 enjoy!
 
 p.s. For fast deploying the local testnet you can execute script in avash console:
+
 `avash> runscript scripts/four_node_network.lua`
+
 Look at the created network:
+
 `avash> procmanager list`
 
 More info is there: https://medium.com/avalabs/how-to-install-and-run-ava-borealis-971286add0c0
