@@ -1,4 +1,4 @@
-# Fast ava node exploding
+# Fast AVA local node deploying
 
 Tested on Ubuntu 18.04 but other linux distros should be OK also.
 
