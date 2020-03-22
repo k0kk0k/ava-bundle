@@ -1,6 +1,7 @@
 #!/bin/bash
 
 tar -C $HOME -xvf ava.tar.gz
+cp -r scripts $HOME
 
 echo -e \
 "avalocation: $HOME/ava\n\n"\
