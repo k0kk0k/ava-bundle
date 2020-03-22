@@ -1,6 +1,6 @@
 #!/bin/bash
 
-tar -C $HOME -xvf ava-bundle/ava.tar.gz
+tar -C $HOME -xvf ava.tar.gz
 
 echo -e \
 "avalocation: $HOME/ava\n\n"\
