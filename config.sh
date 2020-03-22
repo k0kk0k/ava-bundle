@@ -5,10 +5,10 @@ F=.avash.yaml
 rm $F
 
 echo -e \
-"avalocation: $HOME/ava\n\n"\
-"datadir: $HOME/stash\n"\
+"avalocation: $HOME/ava-bundle/ava\n\n"\
+"datadir: $HOME/ava-bundle/stash\n"\
 "log:\n"\
 "  terminal: info\n"\
 "  logfile: info\n"\
-"  dir: $HOME/stash/logs\n" >> $F
+"  dir: $HOME/ava-bundle/stash/logs\n" >> $F
 
