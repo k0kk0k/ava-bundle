@@ -1,10 +1,12 @@
 # Fast ava node exploding
 
+Tested on Ubuntu 18.04 but other linux distros should be OK also.
+
 ### Prerequisites
 
 `sudo apt install git`
 
-Tested on Ubuntu 18.04 but other linux distros should be OK also.
+### Deploy
 
 Go to home directory and use commands below.
 
